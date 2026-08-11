@@ -8,7 +8,27 @@
 </p>
 
 ---
+<h1 align="center">Hi there, I'm Sandeep Sawant 👋</h1>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
+<p align="center">
+  I build full-stack web applications and explore AI/ML — from REST APIs and databases
+  to NLP and computer vision. I enjoy working across the stack, from frontend interfaces
+  to backend logic to data-driven models.
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🛠️ My Tech Stack
 ### 🛠️ My Tech Stack
 
 **Languages**
