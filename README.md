@@ -50,15 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeepsawant28&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepsawant28&layout=compact" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 <p align="left">
