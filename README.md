@@ -9,16 +9,6 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🛠️ My Tech Stack
 ### 🛠️ My Tech Stack
 
 **Languages**
@@ -68,6 +58,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
