@@ -8,16 +8,6 @@
 </p>
 
 ---
-<h1 align="center">Hi there, I'm Sandeep Sawant 👋</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
-
-<p align="center">
-  I build full-stack web applications and explore AI/ML — from REST APIs and databases
-  to NLP and computer vision. I enjoy working across the stack, from frontend interfaces
-  to backend logic to data-driven models.
-</p>
-
----
 
 <p align="center">
   <picture>
