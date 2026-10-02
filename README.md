@@ -66,12 +66,39 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepsawant28&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepsawant28&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sandeepsawant28&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Sandeepsawant28/Sandeepsawant28/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
@@ -80,13 +107,15 @@
 ### 📫 Get in Touch
 
 <p align="left">
-  <a href="mailto:sandeepsawant604@gmail.com" target="_blank">
+  <a href="mailto:sandeepsawant604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sandeep-sawant28" target="_blank">
+
+  <a href="https://www.linkedin.com/in/sandeep-sawant28">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Sandeepsawant28" target="_blank">
+
+  <a href="https://github.com/Sandeepsawant28">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
