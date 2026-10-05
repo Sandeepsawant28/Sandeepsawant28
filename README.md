@@ -4,7 +4,7 @@
 <p align="center">
   I build full-stack web applications and explore AI/ML — from REST APIs and databases
   to NLP and computer vision. I enjoy working across the stack, from frontend interfaces
-  to backend logic to data-driven model.
+  to backend logic to data-driven models.
 </p>
 
 ---
